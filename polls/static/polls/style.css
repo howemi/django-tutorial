@@ -1,0 +1,9 @@
+li a {
+    color: green;
+}
+li a:visited {
+    color: salmon;
+}
+body {
+    background: white center/80% url("images/background-man.jpg") no-repeat;
+}
